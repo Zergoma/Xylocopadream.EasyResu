@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Xylocopadream.EasyResu/Xylocopadream.EasyResu.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Xylocopadream.EasyResu.Tests/Xylocopadream.EasyResu.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="README.md" />
+    <File Path="publish.ps1" />
+  </Folder>
+</Solution>

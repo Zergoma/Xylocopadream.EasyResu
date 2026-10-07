@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Description>Lightweight result types (Resu, Resu&lt;T&gt;) carrying a success, warning or error status instead of throwing.</Description>
+    <PackageTags>result;error-handling</PackageTags>
+  </PropertyGroup>
+
+</Project>
